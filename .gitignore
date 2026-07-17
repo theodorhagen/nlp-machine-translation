@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Conda
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Raw and processed datasets
+data/raw/*
+data/processed/*
+
+# Keep empty data directories
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Trained models and checkpoints
+models/*
+!models/.gitkeep
+*.pt
+*.pth
+*.ckpt
+
+# Generated results
+results/*
+!results/.gitkeep
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Logs
+*.log
