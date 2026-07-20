@@ -1,6 +1,8 @@
 name: nlp-mt
+
 channels:
   - conda-forge
+
 dependencies:
   - python=3.11
   - jupyterlab
@@ -10,3 +12,7 @@ dependencies:
   - matplotlib
   - tqdm
   - scikit-learn
+  - scipy
+  - pytorch
+  - gensim
+  - nltk
