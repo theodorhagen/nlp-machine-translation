@@ -1,0 +1,2 @@
+direction,test_examples,test_bleu,test_chrf
+Spanish → English → Swedish,3326,11.635309300033624,44.247706768781825

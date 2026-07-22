@@ -1,0 +1,2 @@
+direction,validation_bleu,validation_chrf,test_bleu,test_chrf,parameters,training_seconds
+English → Swedish,16.337952225369715,43.89578781461995,16.53122036265601,44.14864523251415,9210464,2355.6090958349996
